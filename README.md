@@ -7,5 +7,10 @@ There are also a couple of different solutions which compile your code every tim
 ## Usage
 
 1. Write your code in a set of *.kt files
-2. Execute make package
+2. Execute `make package`
 3. To run your programm, call `build/build`
+
+## Example
+
+    > make package
+    > build/build
